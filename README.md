@@ -35,7 +35,7 @@ This project sends GCP budget alerts to a Slack channel using Pub/Sub and Cloud 
 
 ## 🖇️ Architecture Diagram
 
-![GCP Billing Alert to Slack](./flowchart.pdf)
+[GCP Billing Alert to Slack](./flowchart.pdf)
 
 ---
 
